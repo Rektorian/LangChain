@@ -1,2 +1,2 @@
 # LangChain
-A repository to store LangChain projects
+A repository to store LangChain projects. Stay tuned for updates...
